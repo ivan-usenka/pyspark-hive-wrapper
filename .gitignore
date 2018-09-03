@@ -1,5 +1,4 @@
 .idea
 hive-executor-service.iml
-.gitignore
 __pycache__/
 executor/__pycache__/
