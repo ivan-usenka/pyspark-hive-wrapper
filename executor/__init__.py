@@ -1,1 +1,1 @@
-from .spark_hive_executor import SparkHiveExecutor
+from spark_hive_executor import SparkHiveExecutor
